@@ -1,6 +1,5 @@
 *~
 *.class
-.project
 .pydevproject
 .DS_Store
 target
