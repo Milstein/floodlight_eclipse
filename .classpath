@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/main/java" output="target/bin"/>
+	<classpathentry kind="src" output="target/bin" path="src/main/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
-        <classpathentry kind="src" path="src/test/java" output="target/bin-test"/>
+	<classpathentry kind="src" output="target/bin-test" path="src/test/java"/>
 	<classpathentry kind="src" path="src/test/resources"/>
-        <classpathentry kind="src" path="lib/gen-java" output="target/bin"/>
+	<classpathentry kind="src" output="target/bin" path="lib/gen-java"/>
 	<classpathentry exported="true" kind="lib" path="lib/args4j-2.0.16.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/cglib-nodep-2.2.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/concurrentlinkedhashmap-lru-1.2.jar"/>
@@ -39,6 +39,8 @@
 	<classpathentry exported="true" kind="lib" path="lib/org.restlet.ext.slf4j-2.2M3.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/simple-5.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/extendedOJ.jar"/>
+	<classpathentry kind="lib" path="lib/openjava2005.jar"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="target/bin"/>
 </classpath>
