@@ -39,8 +39,6 @@
 	<classpathentry exported="true" kind="lib" path="lib/org.restlet.ext.slf4j-2.2M3.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/simple-5.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
-	<classpathentry kind="lib" path="lib/extendedOJ.jar"/>
-	<classpathentry kind="lib" path="lib/openjava2005.jar"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="target/bin"/>
 </classpath>
